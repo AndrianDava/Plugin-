@@ -1,0 +1,10 @@
+
+name: RandomDiamond
+main: com.example.randomdiamond.RandomDiamond
+version: 1.0
+api-version: 1.21
+description: Plugin untuk memberikan pemain diamond secara acak saat mengetik /wk
+commands:
+  wk:
+    description: Dapatkan diamond secara acak
+    
